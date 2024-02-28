@@ -9931,13 +9931,7 @@ h6,
   transition: .5s;
 }
 
-.portfolio-item:hover .portfolio-btn {
-  opacity: 1;
-  width: calc(100% - 60px);
-  height: calc(100% - 60px);
-  top: 30px;
-  left: 30px;
-}
+
 
 .testimonial-carousel .owl-dots {
   margin-top: 25px;
